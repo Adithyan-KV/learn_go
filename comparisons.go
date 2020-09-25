@@ -11,4 +11,5 @@ func main(){
 	fmt.Printf("%t\n", num1>=num2)
 	fmt.Printf("%t\n", num1==num2)
 	fmt.Printf("%t\n", num1!=num2)
+	fmt.Printf("%t\n", num1 == num2 && num1 <= num2)
 }
